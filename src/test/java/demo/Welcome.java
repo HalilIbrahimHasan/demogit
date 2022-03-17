@@ -6,5 +6,8 @@ public class Welcome {
 
         System.out.println("Merhabalar");
         System.out.println("This is local ibrahim");
+        System.out.println("Ben Lokman");
+        System.out.println("Ben Ozen");
+
     }
 }
